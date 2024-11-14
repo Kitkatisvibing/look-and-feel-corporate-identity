@@ -11,13 +11,31 @@
         <h1>Story settings</h1>
 
         <h2>Voice settings</h2>
-        <button>ⓘ</button>
+        <button popovertarget="voice-explanation">ⓘ</button>
+            <div popover id="voice-explanation">
+                <h3>Voice colours explained</h3>
+                <p>There are a few different voices. 
+                To help you pick out the right one, you can press down to listen to a preview 
+                and/or look at the different colours and get an idea of the voices.</p>
+                <dl>
+                    <dt></dt> <dd>High</dd>
+                    <dt></dt> <dd>Low</dd>
+                    <dt></dt> <dd>Smooth</dd>
+                    <dt></dt> <dd>Warm</dd>
+                    <dt></dt> <dd>Neutral</dd>
+                    <dt></dt> <dd>Raspy</dd>
+                </dl>
+            </div>
         <p>Hold down the button to hear a preview of the voices</p>
 
         <h2>pick a background</h2>
         <p>Pick a background to display during the story</p>
 
         <h2>Volume</h2>
+        <label>
+            🔊
+            <input type="range">
+        </label>
 
         <h2>sleep mode</h2>
         <p>The story will automatically stop and the page will close after the chosen time</p>
