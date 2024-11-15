@@ -40,7 +40,15 @@
         <h2>sleep mode</h2>
         <p>The story will automatically stop and the page will close after the chosen time</p>
 
-        <button>continue</button>
+        <button popovertarget="confirm">continue</button>
+            <div popover id="confirm">
+                <h3>Save these settings?</h3>
+                <p>By clicking on continue you will be saving the story settings. 
+                    If you wish to change this, you can change them in settings. 
+                    Happy listening!</p>
+                <button>Save</button>
+                <button>Cancel</button>
+            </div>
     </body>
 
 </html>
