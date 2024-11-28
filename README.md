@@ -6,15 +6,23 @@ De instructie vind je in: [INSTRUCTIONS](https://github.com/fdnd-task/look-and-f
 
 
 # Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+Tumi mundo settings page met gezamelijke stylesheet
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+Ik heb dze sprint gewerkt aan de settings page van tumi mundo. De gezamelijke stylesheet zorgt ervoor dat de kleuren erg afwijken van het figma bestand. 
+Vanwege de styleguide die we samen hebben gemaakt zijn er veel verschillen met het figma bestand.
+![image](https://github.com/user-attachments/assets/44cee4d2-cbcf-4d9a-97ee-a6f8872749c8)
+![image](https://github.com/user-attachments/assets/3e552e48-334d-478c-855c-15e28f9fc6f4)
+![image](https://github.com/user-attachments/assets/da44a2f6-c2b3-4e46-8dca-780330b8c02f)
+
+
+https://kitkatisvibing.github.io/look-and-feel-corporate-identity/
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+ik heb gewerkt met popovers.
+![image](https://github.com/user-attachments/assets/118cb5d6-aab6-4c94-a43b-3bc889367bf9)
+![image](https://github.com/user-attachments/assets/c45b62f8-ad43-4930-aa82-883b8c0487c2)
+
 
 ## Bronnen
 
