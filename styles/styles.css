@@ -1,6 +1,8 @@
 body{
     font-family: var(--ff-main);
     font-size: var(--body-medium);
+    background-color: var(--main-background-color);
+    color: var(--text-color-lightbg);
 }
 
 header{
