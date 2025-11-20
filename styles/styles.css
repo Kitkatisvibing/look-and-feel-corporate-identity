@@ -1,3 +1,8 @@
+body{
+    font-family: var(--ff-main);
+    font-size: var(--body-medium);
+}
+
 header{
     position: sticky;
     top:0px;
