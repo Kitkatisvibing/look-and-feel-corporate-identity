@@ -17,3 +17,17 @@ header{
 h1{
     font-size: var(--heading-medium);
 }
+
+footer{
+    background-color: var(--secondary-detail-color);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 5em;
+    align-items: end;
+
+    .follow{
+        position: absolute;
+        left: 50%;
+    }
+}
