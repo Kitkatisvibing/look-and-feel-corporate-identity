@@ -13,6 +13,10 @@ header{
     align-items: center;
     background-color: var(--primary-detail-color);
     color: var(--text-color-darkbg);
+
+    a:hover{
+        color: var(--secondary-detail-color)
+    }
 }
 
 h1{
@@ -43,6 +47,10 @@ footer{
     justify-content: space-between;
     height: 5em;
     align-items: end;
+
+     a:hover{
+        color: var(--third-detail-color)
+    }
 
     .follow{
         position: absolute;
