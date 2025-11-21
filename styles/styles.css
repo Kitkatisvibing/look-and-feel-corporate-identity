@@ -31,8 +31,8 @@ main{
     grid-row-gap: 10px;
 
     article{
-        height:20em;
-        width: 20em;
+        height:15em;
+        width: 15em;
         border: 3px solid var(--primary-detail-color);
         border-radius: 5px;
         margin-top: 2em;
@@ -47,6 +47,7 @@ footer{
     justify-content: space-between;
     height: 5em;
     align-items: end;
+    flex-wrap: wrap;
 
      a:hover{
         color: var(--third-detail-color)
