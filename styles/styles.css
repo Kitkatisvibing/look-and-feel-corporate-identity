@@ -24,6 +24,15 @@ main{
     grid-template-rows: repeat(2, 1fr);
     grid-column-gap: 10px;
     grid-row-gap: 10px;
+
+    article{
+        height:20em;
+        width: 20em;
+        border: 3px solid var(--primary-detail-color);
+        border-radius: 5px;
+        margin-top: 2em;
+        margin-bottom: 2em;
+    }
 }
 
 footer{
