@@ -17,10 +17,15 @@ header{
     a:hover{
         color: var(--secondary-detail-color)
     }
+
+    h1{
+        font-size: var(--heading-medium);
+    }
 }
 
-h1{
-    font-size: var(--heading-medium);
+img{
+    width: 100%;
+    height: auto;
 }
 
 main{
