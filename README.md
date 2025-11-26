@@ -13,6 +13,8 @@ Sprint 4 embassy of the free mind
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
+<img width="1900" height="869" alt="image" src="https://github.com/user-attachments/assets/b86b4b1c-793c-4e1d-bf89-e2307a23de93" />
+Ik heb in deze sprint de focus gelegd op het gebruiken van de huisstijl. Ik heb ook inspiratie genomen van de designs van jaar 2, en volgens de feedback van de vorige sprints een minimalistischer design aan te houden
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
