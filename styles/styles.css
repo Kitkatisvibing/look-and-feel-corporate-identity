@@ -29,29 +29,35 @@ img{
 }
 
 main{
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(2, 1fr);
-    grid-column-gap: 10px;
-    grid-row-gap: 20px;
 
-    article{
-        height:15em;
-        width: 15em;
-        border: 3px solid var(--primary-detail-color);
-        border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
 
-        h2{
-            background-color: var(--main-background-color);
-            margin-top: 0;
-        }
-
-        button{
-            float: right;
-            margin-top: 10em;
-        }
+    @media (min-width: 600px){
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        grid-column-gap: 10px;
+        grid-row-gap: 20px;
     }
+        article{
+            height:15em;
+            width: 15em;
+            border: 3px solid var(--primary-detail-color);
+            border-radius: 5px;
 
+            h2{
+                background-color: var(--main-background-color);
+                margin-top: 0;
+            }
+
+            button{
+                float: right;
+                margin-top: 10em;
+            }
+        }
     
     article:nth-of-type(1){
         background-image: url(../assets/article1.png);
