@@ -2,7 +2,7 @@
 
 Ontwerp en maak voor een opdrachtgever een website op basis van een bestaande huisstijl.
 
-De instructie vind je in: [INSTRUCTIONS](https://github.com/fdnd-task/look-and-feel-corporate-identity/blob/main/docs/INSTRUCTIONS.md)
+De site staat live op: [LIVE site]([https://github.com/fdnd-task/look-and-feel-corporate-identity/blob/main/docs/INSTRUCTIONS.md](https://kitkatisvibing.github.io/look-and-feel-corporate-identity/))
 
 
 # Titel
